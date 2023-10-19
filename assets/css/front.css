@@ -1,0 +1,9 @@
+.country-link {
+    color: #ff445b;
+    transition: all .5s;
+}
+
+.country-link:hover {
+    color:#e8384e;
+    text-decoration: underline;
+}
